@@ -1,1 +1,1 @@
-# azure-template-specs
+# Azure Template-Specs
